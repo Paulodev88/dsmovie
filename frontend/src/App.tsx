@@ -1,10 +1,9 @@
 import React from 'react';
+import NavBar from './components/Navbar/index';
 
 function App() {
   return (
-    <h1>
-      Pagina 1
-    </h1>
+    <NavBar/>
   );
 }
 
